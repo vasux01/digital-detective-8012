@@ -55,3 +55,9 @@ Each mission is intended to be completed, documented, reviewed, committed and pu
 ## Evidence
 
 The `evidence/` directory is reserved for privacy-safe screenshots or selected command outputs. Review every image and output before publishing it.
+
+## My Learning
+
+Through this project, I explored computer fundamentals, Terminal commands, operating systems, Python programming, number systems, data representation and Git/GitHub workflows.
+
+I learned how to organise files, run Python programs, convert numbers between different bases and use Git branches to manage project changes.
